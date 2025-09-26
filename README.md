@@ -22,9 +22,9 @@ docker build -t notes-app .
 docker run -d -p 8000:8000 notes-app:latest
 ```
 ## Bash Script 
-```
-You can use the script "django-notes.sh "to run the entire app. Just copy and paste the script into a .sh file and run it. As simple as that 
-```
+
+You can use the script "django-notes.sh "to run the entire app. Don't Clone the Repo, 
+Just copy and paste the script into a .sh file and run it. As simple as that
 
 ## Nginx
 
